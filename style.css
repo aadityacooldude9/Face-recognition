@@ -1,0 +1,22 @@
+body{
+    color: white;
+    background: cyan;
+    }
+    .heading{
+    width: 80%;
+    font-size: 25px;
+    }
+    #camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+    }
+    .names_of_people, #person_name, #person_accuracy{
+    color: crimson;
+    }
+    h1{
+    color:darkgreen;
+    }
+    p{
+    color: darkorchid;
+    }
